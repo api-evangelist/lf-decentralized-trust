@@ -8,8 +8,8 @@ access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Blockchain
-  - Distributed Ledger
   - Decentralized Identity
+  - Distributed Ledger
   - Linux Foundation
 created: '2026-03-16'
 modified: '2026-03-16'
@@ -24,8 +24,8 @@ apis:
     humanURL: https://www.lfdecentralizedtrust.org/projects
     tags:
       - Blockchain
-      - Distributed Ledger
       - Decentralized Identity
+      - Distributed Ledger
       - Linux Foundation
     properties:
       - type: Documentation
