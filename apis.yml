@@ -23,10 +23,10 @@ apis:
       Programmatic access to LF Decentralized Trust blockchain frameworks, ledger APIs, and identity tools.
     humanURL: https://www.lfdecentralizedtrust.org/projects
     tags:
-  - Blockchain
-  - Distributed Ledger
-  - Decentralized Identity
-  - Linux Foundation
+      - Blockchain
+      - Distributed Ledger
+      - Decentralized Identity
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://www.lfdecentralizedtrust.org/projects
