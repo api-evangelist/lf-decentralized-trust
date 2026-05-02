@@ -13,7 +13,7 @@ LF Decentralized Trust, formerly Hyperledger, is a Linux Foundation project umbr
 
 ## Timestamps
 - **Created:** 2026-03-16
-- **Modified:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -31,6 +31,7 @@ Programmatic access to LF Decentralized Trust blockchain frameworks, ledger APIs
 ## Common Properties
 - [Documentation](https://www.lfdecentralizedtrust.org/projects)
 - [GitHub Repository](https://github.com/hyperledger)
+- [Projects](https://www.lfdecentralizedtrust.org/projects)
 
 ## Maintainers
 **FN:** Kin Lane
