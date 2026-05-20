@@ -31,6 +31,8 @@ apis:
       - type: Documentation
         url: https://www.lfdecentralizedtrust.org/projects
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lfdecentralizedtrust
   - type: Documentation
     name: LF Decentralized Trust Documentation
     description: Official documentation for LF Decentralized Trust.
