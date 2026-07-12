@@ -31,6 +31,8 @@ apis:
       - type: Documentation
         url: https://www.lfdecentralizedtrust.org/projects
 common:
+  - type: DomainSecurity
+    url: security/lf-decentralized-trust-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lfdecentralizedtrust
   - type: Documentation
@@ -45,6 +47,8 @@ common:
     name: LF Decentralized Trust Projects
     description: Portfolio of graduated and incubating projects including Besu, Cacti, Fabric, Firefly, Hiero, Indy, Iroha, AnonCreds, CREDEBL, Identus, Lockness, Minokawa, Paladin, Smoot, Solang, Web3j, and Trust over IP.
     url: https://www.lfdecentralizedtrust.org/projects
+  - url: https://www.lfdecentralizedtrust.org/blog/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
