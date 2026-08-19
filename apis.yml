@@ -27,7 +27,7 @@ created: '2026-03-16'
 modified: '2026-04-28'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lf-decentralized-trust/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: lf-decentralized-trust:lf-decentralized-trust-api
     name: LF Decentralized Trust API
