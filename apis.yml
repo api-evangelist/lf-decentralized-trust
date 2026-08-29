@@ -3,6 +3,17 @@ name: LF Decentralized Trust
 description: >-
   LF Decentralized Trust, formerly Hyperledger, is a Linux Foundation project umbrella for enterprise blockchain, distributed ledger technology, and decentralized identity solutions. It hosts frameworks like Hyperledger Fabric, Besu, and Aries for building secure, interoperable enterprise blockchain applications.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
