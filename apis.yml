@@ -54,6 +54,8 @@ apis:
       - type: Documentation
         url: https://www.lfdecentralizedtrust.org/projects
 common:
+  - type: Website
+    url: https://www.lfdecentralizedtrust.org/
   - type: DomainSecurity
     url: security/lf-decentralized-trust-domain-security.yml
   - type: LinkedIn
